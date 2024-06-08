@@ -1,0 +1,1 @@
+Create a post api which will have rate limit on basis of each and unique ip.
